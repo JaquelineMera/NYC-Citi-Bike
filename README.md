@@ -29,7 +29,7 @@ Análisis de los viajes del servicio de bicicletas en la ciudad de Nueva York.
   + Analizar el crecimiento del número de viajes diarios a lo largo del tiempo.
   + Desglosar el total de viajes según el género/edad/tipo de suscripción/hora de los usuarios.
 
-+ ** Generar Conclusiones y Recomendaciones**:
++ **Generar Conclusiones y Recomendaciones**:
   + Identificar patrones a partir de los datos analizados.
   + Dar recomendaciones estratégicas basadas en los hallazgos.
   + Construir pasos a seguir de acuerdo al análisis. 
