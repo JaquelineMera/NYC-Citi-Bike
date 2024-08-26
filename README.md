@@ -20,6 +20,19 @@ Análisis de los viajes del servicio de bicicletas en la ciudad de Nueva York.
 
 + Realizar un análisis descriptivo de datos del sistema de bicicletas compartidas en Nueva York para resumir y comprender las características principales del uso de las bicicletas, con el fin de obtener una visión clara y precisa del comportamiento de los usuarios. Esto servirá como base para futuros análisis predictivos o inferenciales que permitan optimizar el servicio y mejorar la experiencia de los usuarios.
 
++ **Calcular Métricas de Uso Diario**:
+  + Determinar el número promedio de viajes realizados en un día.
+  + Calcular las estadísticas de duración de los viaje.
+
++ **Evaluar Métricas Históricas**: 
+  + Calcular el total de viajes realizados en el programa de bicicletas compartidas.
+  + Analizar el crecimiento del número de viajes diarios a lo largo del tiempo.
+  + Desglosar el total de viajes según el género/edad/tipo de suscripción/hora de los usuarios.
+
++ ** Generar Conclusiones y Recomendaciones**:
+  + Identificar patrones a partir de los datos analizados.
+  + Dar recomendaciones estratégicas basadas en los hallazgos.
+  + Construir pasos a seguir de acuerdo al análisis. 
 
 ## Equipo
 - [Jaqueline Mera](https://github.com/JaquelineMera)
