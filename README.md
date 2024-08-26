@@ -95,4 +95,4 @@ Analizar las causas de los retrasos en los viajes y trabajar en soluciones para 
 + **Monitoreo y Mejora de Rutas Populares**: Analizar las rutas más frecuentemente utilizadas entre estaciones de inicio y fin mediante trayectorias espaciales. Identificar posibles cuellos de botella o zonas de congestión y trabajar en colaboración con las autoridades de la ciudad para mejorar la infraestructura ciclista en estas rutas, facilitando un flujo más eficiente de bicicletas y mejorando la seguridad del usuario.
 
 ## Enlaces
-### [Dashboard](link)
+### [Dashboard](https://lookerstudio.google.com/reporting/1ac381ea-6266-4d71-b358-ff3baf2f26b5)
