@@ -18,7 +18,7 @@ Análisis de los viajes del servicio de bicicletas en la ciudad de Nueva York.
 
 ## Objetivo
 
-+ Realizar un análisis descriptivo de datos del sistema de bicicletas compartidas en Nueva York para resumir y comprender las características principales del uso de las bicicletas, con el fin de obtener una visión clara y precisa del comportamiento de los usuarios. Esto servirá como base para futuros análisis predictivos o inferenciales que permitan optimizar el servicio y mejorar la experiencia de los usuarios.
++ Realizar un análisis descriptivo de datos del sistema de bicicletas compartidas en Nueva York para resumir y comprender las características principales del uso de las bicicletas, con el fin de obtener una visión clara y precisa del comportamiento de los usuarios y sus viajes. Esto servirá como base para futuros análisis predictivos o inferenciales que permitan optimizar el servicio y mejorar la experiencia de los usuarios.
 
 + **Calcular Métricas de Uso Diario**:
   + Determinar el número promedio de viajes realizados en un día.
