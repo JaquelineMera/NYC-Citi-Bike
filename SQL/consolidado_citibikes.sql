@@ -57,3 +57,14 @@ SELECT
   gender
 FROM
   modified_data;
+-- Cambios:
+-- Convertir tripduration a minutos
+-- Crear columna stop_date
+-- Crear columna stop_time
+-- Crear columnas de año, mes y dia
+-- Crear columna status_trip
+-- Quitar registros donde start_station_latitude es 0
+-- Quitar registros donde start_station_latitude es mayor a 41
+-- Quitar registros donde birth_year es mayor a 1924 personas menores a 100a
+-- Quitar registros donde tripduration es mayor a 200000 segundos 
+-- Se excluyeron 2 outliers de tripduration
